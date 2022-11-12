@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645345145 source:c:\users\asus\onedrive\pick your poison\21s2-sc1007-ce1107-cz1107-data structures & algorithms\hackerearth\expressiontree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

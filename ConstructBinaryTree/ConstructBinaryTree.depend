@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645407771 source:c:\users\yeowj\onedrive\pick your poison\21s2-sc1007-ce1107-cz1107-data structures & algorithms\hackerearth\constructbinarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645963676 source:c:\users\asus\onedrive\pick your poison\21s2-sc1007-ce1107-cz1107-data structures & algorithms\hackerearth\constructbinarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
